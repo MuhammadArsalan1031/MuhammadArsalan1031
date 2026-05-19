@@ -1,16 +1,16 @@
 # Hi There 👋
-##I'am a AI Engineer
+## I'am a AI Engineer
 # 📊 Socials 
 ## <a href="https://www.linkedin.com/in/muhamad-arsalan" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 # Skils
-## - Machine Learning
-## - Deep Learning
-## - Data Analysis
-## - NLP
-## - Gen AI'
+ - Machine Learning
+ - Deep Learning
+ - Data Analysis
+ - NLP
+ - Gen AI'
 
 # Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
