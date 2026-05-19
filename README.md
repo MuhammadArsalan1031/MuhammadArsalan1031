@@ -3,20 +3,14 @@ I'am a AI Engineer
 ## 📊 Socials 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhamad-arsalan">
-    <img src="https://img.shields.io/badge/✨%20Connect%20on%20LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=🌌+Connect+With+Muhammad+Arsalan;✨+AI+%7C+ML+Developer;💫+Building+The+Future+With+AI" />
   </a>
 </p>
-<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/muhamad-arsalan">
-    <img src="https://img.shields.io/badge/💼%20Muhammad%20Arsalan-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Arsalan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
   </a>
-</p>
-<br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhamad-arsalan">
-    <img src="https://img.shields.io/badge/🌌%20Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+</p>>
 
 
