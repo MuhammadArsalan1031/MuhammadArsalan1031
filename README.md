@@ -1,6 +1,5 @@
 # Hi There 👋
 
-## Muhammad Arsalan
-
-# 🎉 About Me:
-## I'am a AI Engineer
+## About Me 🎉:
+Muhammad Arsalan
+A AI Engineer
