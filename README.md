@@ -1,5 +1,3 @@
-## Hi there 👋
+# Hi There 👋
 
-Muhammad Arsalan
-
-##About Me:
+## About Me
