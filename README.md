@@ -2,15 +2,21 @@
 I'am a AI Engineer
 ## 📊 Socials 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhamad-arsalan">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=🌌+Connect+With+Muhammad+Arsalan;✨+AI+%7C+ML+Developer;💫+Building+The+Future+With+AI" />
+  <a href="https://www.linkedin.com/in/muhamad-arsalan" 
+     style="
+        display:inline-block;
+        padding:14px 32px;
+        background:linear-gradient(135deg,#0A66C2,#6fb1fc);
+        color:white;
+        text-decoration:none;
+        font-size:18px;
+        font-weight:600;
+        border-radius:50px;
+        box-shadow:0 0 20px rgba(10,102,194,0.5);
+        transition:all 0.3s ease;
+     "
+     onmouseover="this.style.transform='scale(1.08)';this.style.boxShadow='0 0 35px rgba(10,102,194,0.9)'"
+     onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 0 20px rgba(10,102,194,0.5)'">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhamad-arsalan">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Arsalan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
-  </a>
-</p>>
-
-
