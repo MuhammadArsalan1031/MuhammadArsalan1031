@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-arsalan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muzammil_1031/)
 
-
+--------------------------------------------------------------
 
 # 🥷 Skills
 
@@ -19,6 +19,8 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
+------------------------------------------------------------------------------------------
+ 
 # 📽️ Projects
 
 # 🩸 Advanced Blood Cell Anomaly Detection System
@@ -46,7 +48,7 @@ An AI-powered healthcare system designed to detect blood cell abnormalities usin
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+--------------------------------------------
 
 # 📊 Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuhammadArsalan1031&show_icons=true&theme=highcontrast" height="150"/>
