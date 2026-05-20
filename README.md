@@ -1,10 +1,6 @@
-<h1 align="center">Hi there 👋</h1>
+<h1>Hi there 👋</h1>
 
 <h2 align="center">Muhammad Arsalan</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=AI+Engineer;Machine+Learning+Enthusiast;Data+Science+Learner;Flask+Developer" />
-</p>
 
 
 
