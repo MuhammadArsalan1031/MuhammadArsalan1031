@@ -15,9 +15,20 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-arsalan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muzammil_1031/)
 
+# 🥷 Skills
+
+## 🛠️ Skills
+
+![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-blue?style=for-the-badge)
+![ML](https://img.shields.io/badge/ML-Machine%20Learning-green?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-orange?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-purple?style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-black?style=for-the-badge)
+
 --------------------------------------------------------------
 
-# 🥷 Skills
+# 🔨 Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
