@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=Muhammad%20Arsalan&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhammad%20Arsalan&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 # 🚀 Socials 
