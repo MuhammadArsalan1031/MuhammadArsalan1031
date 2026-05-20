@@ -1,5 +1,14 @@
-# Hi There 👋
-## I'am a AI Engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
+</p>
+
+<h1 align="center">Hi there 👋</h1>
+
+<h2 align="center">Muhammad Arsalan</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=AI+Engineer;ML+Enthusiast;Data+Science+Learner;Flask+Developer" />
+</p>
 
 
 
