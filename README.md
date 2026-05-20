@@ -45,4 +45,7 @@ An AI-powered healthcare system designed to detect blood cell abnormalities usin
 
 # 📊 Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadArsalan1031&theme=tokyonight" height="150"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadArsalan1031&show_icons=true&theme=radical" height="140"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadArsalan1031&theme=radical" height="140"/>
+</p>
