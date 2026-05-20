@@ -21,13 +21,14 @@
 
 ## 🛠️ Skills
 
-![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-0A66C2?style=for-the-badge&logo=OpenAI&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-20BEFF?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-8E44AD?style=for-the-badge&logo=google&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-2ECC71?style=for-the-badge&logo=databricks&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-000000?style=for-the-badge&logo=python&logoColor=white)
+## 🛠️ Skills
 
+![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-0A66C2?style=flat-square&logo=OpenAI&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-20BEFF?style=flat-square&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8E44AD?style=flat-square&logo=google&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-2ECC71?style=flat-square&logo=databricks&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-000000?style=flat-square&logo=python&logoColor=white)
 --------------------------------------------------------------
 
 # 🔨 Tools
