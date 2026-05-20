@@ -1,12 +1,9 @@
 # Hi There 👋
-## 💻 AI & Data Science Enthusiast  
-## 📊 Passionate about Machine Learning & Data Analytics  
-## 🚀 Building Flask & Recommendation System Projects  
-## 🌱 Currently learning Deep Learning & Generative AI
+## I'am a AI Engineer
 
 # 📊 Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-arsalan)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muzammil_1031/)
 # 🔨 Tools 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
