@@ -1,7 +1,7 @@
 # Hi There 👋
 ## I'am a AI Engineer
 
-# 📊 Socials 
+# 🚀 Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-arsalan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muzammil_1031/)
 
@@ -43,4 +43,6 @@ An AI-powered healthcare system designed to detect blood cell abnormalities usin
 
 <br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuhammadArsalan1031&show_icons=true&theme=radical" />
+# 📊 Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadArsalan1031&theme=tokyonight" height="150"/>
