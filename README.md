@@ -1,6 +1,8 @@
 <h1>Hi there 👋</h1>
 
-<h2 align="center">Muhammad Arsalan</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=Muhammad%20Arsalan&fontSize=40&fontColor=ffffff" />
+</p>
 
 # 🚀 Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-arsalan)
