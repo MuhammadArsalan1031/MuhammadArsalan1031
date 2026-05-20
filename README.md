@@ -47,7 +47,7 @@ An AI-powered healthcare system designed to detect blood cell abnormalities usin
 
 
 # 📊 Stats
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuhammadArsalan1031&show_icons=true&theme=radical" height="150"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuhammadArsalan1031&show_icons=true&theme=highcontrast" height="150"/>
 
 <br>
 
