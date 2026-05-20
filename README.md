@@ -27,7 +27,6 @@
 
 An AI-powered healthcare system designed to detect blood cell abnormalities using Machine Learning and intelligent data analysis techniques.
 
----
 
 ## 🚀 Key Features
 
@@ -38,7 +37,7 @@ An AI-powered healthcare system designed to detect blood cell abnormalities usin
 | ⚡ Fast Predictions | Generates quick anomaly detection results |
 | 🌐 Interactive Interface | Simple and user-friendly system |
 
----
+
 
 ## 🛠️ Technologies Used
 
