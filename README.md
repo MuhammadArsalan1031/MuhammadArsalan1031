@@ -6,9 +6,9 @@
 
 # 👨‍💻 About Me
 
-- AI & Machine Learning Enthusiast  
+- AI & Machine Learning Engineer  
 - Passionate about Data Science & Automation  
-- Building real-world ML projects using Python & Flask  
+- Building real-world ML projects using Python & AI 
 
 --------------------------------------------------------------------------------------
 
