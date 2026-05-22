@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
+-----------------------------
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=Muhammad%20Arsalan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
@@ -72,7 +74,7 @@ An AI-powered healthcare system designed to detect blood cell abnormalities usin
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
---------------------------------------------
+-------------------------------------------
 
 # 📊 Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuhammadArsalan1031&show_icons=true&theme=highcontrast" height="150"/>
