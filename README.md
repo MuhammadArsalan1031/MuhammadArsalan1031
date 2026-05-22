@@ -33,8 +33,7 @@
 ![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=google&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-2ECC71?style=for-the-badge&logo=databricks&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-000000?style=for-the-badge&logo=python&logoColor=white)
-
-
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](YOUR_POWER_BI_LINK)
 
 --------------------------------------------------------------
 
