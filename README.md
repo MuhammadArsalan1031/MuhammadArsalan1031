@@ -35,7 +35,6 @@
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-000000?style=for-the-badge&logo=python&logoColor=white)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](YOUR_POWER_BI_LINK)
 [![Seaborn](https://img.shields.io/badge/Seaborn-Data%20Visualization-0f172a?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
-
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-0f172a?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
 
 --------------------------------------------------------------
