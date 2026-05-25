@@ -82,4 +82,8 @@ An AI-powered healthcare system designed to detect blood cell abnormalities usin
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadArsalan1031&theme=highcontrast" height="150"/>
 
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
